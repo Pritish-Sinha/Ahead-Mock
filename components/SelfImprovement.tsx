@@ -3,7 +3,7 @@ import React, { useState, useRef } from 'react';
 import Image from 'next/image';
 import selfBlueGhost from '@/public/images/heroBlueGhost.png';
 import SelfImprovementCard from '@/components/SelfImprovementCard';
-import { selfImprovementCardData } from '@/data';
+import { selfImprovementCardData } from '@/data/data';
 import {motion} from 'framer-motion';
 import {useInView} from "react-intersection-observer";
 

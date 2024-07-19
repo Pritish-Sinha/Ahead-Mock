@@ -3,7 +3,7 @@ import React, {useEffect, useState} from 'react';
 import Image from "next/image";
 import logo from '../public/images/ahead-logo.png'
 import {Menu} from "lucide-react";
-import {Sheet, SheetContent, SheetDescription, SheetFooter, SheetHeader, SheetTitle, SheetTrigger, SheetClose} from "@/components/ui/sheet";
+import {Sheet, SheetContent, SheetDescription, SheetFooter, SheetHeader, SheetTitle, SheetTrigger, SheetClose} from "@/data/sheet";
 import Link from "next/link";
 
 

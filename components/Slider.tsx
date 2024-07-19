@@ -1,7 +1,7 @@
 'use client';
 import React, {useEffect, useRef, useState} from 'react';
 import SliderCard from "@/components/SliderCard";
-import {cardData} from "@/data";
+import {cardData} from "@/data/data";
 import {motion} from "framer-motion";
 
 const Slider = () => {
