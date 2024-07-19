@@ -1,4 +1,4 @@
-# Ahead Mocki
+# Ahead Mock
 
 ## Technology Stack
 
